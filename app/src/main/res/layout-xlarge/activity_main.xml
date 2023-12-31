@@ -20,7 +20,7 @@
 
         <EditText
             android:id="@+id/inputText"
-            android:layout_width="300dp"
+            android:layout_width="850dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="5dp"
@@ -43,7 +43,7 @@
         android:id="@+id/taskList"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="100dp"
         android:layout_marginHorizontal="10dp"
         android:layout_marginBottom="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
